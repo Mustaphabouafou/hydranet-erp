@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+fpdf
+qrcode[pil]
+beautifulsoup4
+requests
